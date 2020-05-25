@@ -1,4 +1,5 @@
 /venv/
 
-/data/height.npy
-/data/weight.npy
+/data/*.npy
+
+.idea
